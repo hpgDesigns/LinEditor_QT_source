@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=LineditorApp
+Comment=Easy Text Editor for Linux
+Exec=lineditor
+Icon=lineditor.png
+Category=Education; Accesories; Other; Office
+X-AppImage.Version=1.00beta
